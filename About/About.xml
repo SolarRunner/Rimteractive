@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Rimteractive Mod - Dev Build</name>
+	<author>SilverShadows.ru</author>
+	<targetVersion>0.18.0</targetVersion>
+	<description>Rimteractive Mod - это донат мод для RimWorld, который вносит в игру интерактивное взаимодействие с подписчиками и зрителями во время проведения стримов.\n
+Данная тестовая сборка расчитана только на проверку совместимости с разными сборками Модов для игры.</description>
+	<url>https://steamcommunity.com/id/SolarRunner/myworkshopfiles/?appid=294100</url>
+</ModMetaData>
